@@ -1,0 +1,15 @@
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.csproj.AssemblyReference.cache
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.AssemblyInfoInputs.cache
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.AssemblyInfo.cs
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.csproj.CoreCompileInputs.cache
+D:\work\homework\hm3\bin\Debug\net6.0\hm3.exe
+D:\work\homework\hm3\bin\Debug\net6.0\hm3.deps.json
+D:\work\homework\hm3\bin\Debug\net6.0\hm3.runtimeconfig.json
+D:\work\homework\hm3\bin\Debug\net6.0\hm3.dll
+D:\work\homework\hm3\bin\Debug\net6.0\hm3.pdb
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.dll
+D:\work\homework\hm3\obj\Debug\net6.0\refint\hm3.dll
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.pdb
+D:\work\homework\hm3\obj\Debug\net6.0\hm3.genruntimeconfig.cache
+D:\work\homework\hm3\obj\Debug\net6.0\ref\hm3.dll
